@@ -2,7 +2,7 @@
 
 This repository hosts a comparative study between Deep Learning and Classical Machine Learning approaches for the automated classification of breast ultrasound images. The project utilizes the **Breast Ultrasound Images Dataset (BUSI)** to classify scans into three categories: **Benign, Malignant, and Normal**.
 
-## 📊 Project Overview
+## 📊 Project OverviewS
 
 Accurate diagnosis of breast cancer from ultrasound imagery is a critical challenge in medical imaging. This project implements and evaluates two distinct modeling approaches to address this:
 
